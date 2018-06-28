@@ -1,0 +1,2 @@
+Program uses inputFilesDirectory path (for example : C:\input)environment variable as input to check word count in files
+Program uses resultFileLocation environment variable as location directory (for example : C:\output) for result files.
